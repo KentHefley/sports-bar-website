@@ -1,0 +1,18 @@
+{
+  "name": "restaurant-website",
+  "version": "1.0.0",
+  "description": "Restaurant Website using html css and javascript",
+  "main": "app.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:css"
+  },
+  "keywords": [
+    "restaurant",
+    "website"
+  ],
+  "author": "Kent Hefley",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.41.1"
+  }
+}
